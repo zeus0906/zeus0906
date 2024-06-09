@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T23:45:49.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="P3frLvRmziCRyZvCdoIs" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T23:54:43.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CFXtvoneLXlhClo5CdR3" version="24.5.2" type="github">
   <diagram name="Page-1" id="K4EIJ_kx2BmpZi9qtdBt">
-    <mxGraphModel dx="1172" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ydagU0OwPg33FftVNVz--34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="196" y="279" width="637.93" height="500" as="geometry" />
+          <mxGeometry x="273" y="304" width="637.93" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ydagU0OwPg33FftVNVz--2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Black_128x128.png" vertex="1" parent="ydagU0OwPg33FftVNVz--34">
           <mxGeometry x="176" y="427" width="41" height="42" as="geometry" />
@@ -89,9 +89,6 @@
         </mxCell>
         <mxCell id="ydagU0OwPg33FftVNVz--31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/luisance_pack/128/ordinateur_portable_allum.png" vertex="1" parent="ydagU0OwPg33FftVNVz--34">
           <mxGeometry x="241" y="185" width="155" height="155" as="geometry" />
-        </mxCell>
-        <mxCell id="ydagU0OwPg33FftVNVz--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.324;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ydagU0OwPg33FftVNVz--34" source="ydagU0OwPg33FftVNVz--24" target="ydagU0OwPg33FftVNVz--31">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
